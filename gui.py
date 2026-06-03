@@ -1,7 +1,7 @@
 import FreeSimpleGUI as sg
 import functions
 import time
-
+sg.theme("Dark")
 clock = sg.Text("", key="clock")
 
 label = sg.Text("Type in a to-do")
