@@ -1,5 +1,3 @@
-# Unchanged backend from Section 15. The GUI frontend below uses these
-# same functions.
 FILEPATH = "todos.txt"
 
 
